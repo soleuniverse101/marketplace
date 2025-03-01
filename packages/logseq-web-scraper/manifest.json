@@ -1,0 +1,7 @@
+{
+  "title": "Logseq Web Scraper",
+  "description": "A simple plugin to do structured web scraping directly inside Logseq." ,
+  "author": "soleuniverse",
+  "repo":"soleuniverse101/logseq-web-scraper",
+  "icon": "icon.png"
+}
